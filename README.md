@@ -2,7 +2,10 @@
 
 A modern, responsive React dashboard for visualizing business analytics data through natural language queries. This project demonstrates the integration of various modern web technologies to create an intuitive and powerful analytics interface.
 
- 
+## link of project
+
+  https://aesthetic-gnome-8864d8.netlify.app/
+
 ##  Features
 
 - **Natural Language Queries**: Input business questions in plain English
